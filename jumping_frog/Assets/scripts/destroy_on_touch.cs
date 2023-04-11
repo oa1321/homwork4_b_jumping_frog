@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class destroy_on_touch : MonoBehaviour
 {
-    [SerializeField] string tag;
+    [SerializeField] string tag;//the tag
     // Start is called before the first frame update
     private void OnTriggerEnter(Collider other)
     {   
