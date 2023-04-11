@@ -10,7 +10,7 @@ to restart the, restart the page
 the git with all the files is at
 
 
-[github](https://github.com/oa1321/homwork4_b_jumping_frog)
+[GitHub](https://github.com/oa1321/homwork4_b_jumping_frog)
 
 
 [itch](https://gamedevcourse.itch.io/ofek-homwworkb-jumpingfrog)
