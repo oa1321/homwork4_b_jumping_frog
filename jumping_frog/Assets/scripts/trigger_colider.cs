@@ -9,10 +9,10 @@ public class trigger_colider : MonoBehaviour
     [SerializeField] string tag;
     // Start is called before the first frame update
     private void OnTriggerEnter(Collider other)
-    {   
+    {
         Debug.Log(other.tag);
         if (other.tag == tag && enabled)
-        {    
+        {
             SceneManager.LoadScene(sceneName);
         }
     }
@@ -20,6 +20,6 @@ public class trigger_colider : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }

@@ -5,4 +5,7 @@ the git with all the files is at
 
 https://github.com/oa1321/homwork4_b_jumping_frog
 
+
+https://gamedevcourse.itch.io/ofek-homwworkb-jumpingfrog
+
 unity 2021.3.21f1 LTS
